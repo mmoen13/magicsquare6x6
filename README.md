@@ -1,0 +1,1 @@
+# magicsquare6x6
